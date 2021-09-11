@@ -1,0 +1,375 @@
+[
+  {
+    "date": "September 10",
+    "num_cases": 1,
+    "school": "Whittier Elementary School"
+  },
+  {
+    "date": "September 10",
+    "num_cases": 1,
+    "school": "Stanton Elementary School"
+  },
+  { "date": "September 9", "num_cases": 1, "school": "Bard High School" },
+  {
+    "date": "September 9",
+    "num_cases": 1,
+    "school": "Garfield Elementary School"
+  },
+  { "date": "September 9", "num_cases": 1, "school": "Hardy Middle School" },
+  {
+    "date": "September 9",
+    "num_cases": 1,
+    "school": "Luke C. Moore High School"
+  },
+  {
+    "date": "September 8",
+    "num_cases": 1,
+    "school": "Eliot-Hine Middle School"
+  },
+  { "date": "September 8", "num_cases": 1, "school": "Phelps ACE High School" },
+  { "date": "September 8", "num_cases": 1, "school": "Phelps ACE High School" },
+  {
+    "date": "September 8",
+    "num_cases": 1,
+    "school": "Brent Elementary School"
+  },
+  {
+    "date": "September 8",
+    "num_cases": 1,
+    "school": "Janney Elementary School"
+  },
+  {
+    "date": "September 7",
+    "num_cases": 1,
+    "school": "Nalle Elementary School"
+  },
+  {
+    "date": "September 7",
+    "num_cases": 1,
+    "school": "CW Harris Elementary School"
+  },
+  {
+    "date": "September 7",
+    "num_cases": 1,
+    "school": "Tyler Elementary School"
+  },
+  {
+    "date": "September 7",
+    "num_cases": 1,
+    "school": "Stevens Early Childhood Center"
+  },
+  {
+    "date": "September 7",
+    "num_cases": 2,
+    "school": "Truesdell Elementary School"
+  },
+  { "date": "September 7", "num_cases": 1, "school": "Wilson High School" },
+  {
+    "date": "September 7",
+    "num_cases": 1,
+    "school": "Bancroft Elementary School"
+  },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "Banneker Academic High School"
+  },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "Takoma Elementary School"
+  },
+  { "date": "September 3", "num_cases": 1, "school": "Bard High School" },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "Stanton Elementary School"
+  },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "Lafayette Elementary School"
+  },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "Smothers Elementary School"
+  },
+  { "date": "September 3", "num_cases": 1, "school": "Ballou High School" },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "Watkins Elementary School"
+  },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "Oyster-Adams Bilingual School"
+  },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "MacFarland Middle School"
+  },
+  { "date": "September 3", "num_cases": 1, "school": "Eastern High School" },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "Capitol Hill Montessori School"
+  },
+  { "date": "September 3", "num_cases": 1, "school": "King Elementary School" },
+  { "date": "September 3", "num_cases": 2, "school": "Dunbar High School" },
+  { "date": "September 3", "num_cases": 1, "school": "Deal Middle School" },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "Patterson Elementary School"
+  },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "Stevens Early Learning Center"
+  },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "McKinley Technology High School"
+  },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "Powell Elementary School"
+  },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "Tubman Elementary School"
+  },
+  { "date": "September 3", "num_cases": 1, "school": "Dunbar High School" },
+  { "date": "September 3", "num_cases": 1, "school": "Johnson Middle School" },
+  {
+    "date": "September 3",
+    "num_cases": 2,
+    "school": "Stuart-Hobson Middle School"
+  },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "Janney Elementary School"
+  },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "Bancroft Elementary School"
+  },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "Beers Elementary School"
+  },
+  {
+    "date": "September 3",
+    "num_cases": 2,
+    "school": "Lafayette Elementary School"
+  },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "Stanton Elementary School"
+  },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "Van Ness Elementary School"
+  },
+  {
+    "date": "September 3",
+    "num_cases": 1,
+    "school": "Cardozo Education Campus"
+  },
+  {
+    "date": "September 2",
+    "num_cases": 1,
+    "school": "Whittier Elementary School"
+  },
+  {
+    "date": "September 2",
+    "num_cases": 1,
+    "school": "Luke C. Moore High School"
+  },
+  { "date": "September 2", "num_cases": 1, "school": "Eastern High School" },
+  {
+    "date": "September 2",
+    "num_cases": 1,
+    "school": "Stanton Elementary School"
+  },
+  {
+    "date": "September 2",
+    "num_cases": 1,
+    "school": "Powell Elementary School"
+  },
+  {
+    "date": "September 2",
+    "num_cases": 1,
+    "school": "Nalle Elementary School"
+  },
+  { "date": "September 2", "num_cases": 1, "school": "Deal Middle School" },
+  { "date": "September 2", "num_cases": 1, "school": "School Without Walls" },
+  { "date": "September 2", "num_cases": 1, "school": "Roosevelt High School" },
+  {
+    "date": "September 1",
+    "num_cases": 1,
+    "school": "Stuart-Hobson Middle School"
+  },
+  {
+    "date": "September 1",
+    "num_cases": 1,
+    "school": "Brightwood Elementary School"
+  },
+  {
+    "date": "September 1",
+    "num_cases": 1,
+    "school": "Eliot-Hine Middle School"
+  },
+  {
+    "date": "September 1",
+    "num_cases": 1,
+    "school": "Marie Reed Elementary School"
+  },
+  {
+    "date": "September 1",
+    "num_cases": 1,
+    "school": "Houston Elementary School"
+  },
+  { "date": "September 1", "num_cases": 1, "school": "Deal Middle School" },
+  {
+    "date": "September 1",
+    "num_cases": 2,
+    "school": "Leckie Elementary School"
+  },
+  {
+    "date": "September 1",
+    "num_cases": 1,
+    "school": "Eliot-Hine Middle School"
+  },
+  {
+    "date": "September 1",
+    "num_cases": 1,
+    "school": "Houston Elementary School"
+  },
+  { "date": "August 31", "num_cases": 1, "school": "Brookland Middle School" },
+  { "date": "August 31", "num_cases": 1, "school": "Wilson High School" },
+  { "date": "August 31", "num_cases": 1, "school": "Brookland Middle School" },
+  { "date": "August 31", "num_cases": 1, "school": "MacFarland Middle School" },
+  { "date": "August 31", "num_cases": 1, "school": "Tubman Elementary School" },
+  {
+    "date": "August 31",
+    "num_cases": 1,
+    "school": "Lafayette Elementary School"
+  },
+  { "date": "August 31", "num_cases": 1, "school": "Excel Academy" },
+  { "date": "August 31", "num_cases": 1, "school": "Ballou STAY High School" },
+  {
+    "date": "August 31",
+    "num_cases": 1,
+    "school": "McKinley Tech Middle School"
+  },
+  { "date": "August 31", "num_cases": 2, "school": "Janney Elementary School" },
+  {
+    "date": "August 31",
+    "num_cases": 1,
+    "school": "Cleveland Elementary School"
+  },
+  {
+    "date": "August 31",
+    "num_cases": 1,
+    "school": "Ketcham Elementary School"
+  },
+  {
+    "date": "August 30",
+    "num_cases": 1,
+    "school": "Brightwood Elementary School"
+  },
+  { "date": "August 30", "num_cases": 1, "school": "Dunbar High School" },
+  { "date": "August 30", "num_cases": 1, "school": "Wilson High School" },
+  { "date": "August 30", "num_cases": 1, "school": "Nalle Elementary School" },
+  {
+    "date": "August 30",
+    "num_cases": 1,
+    "school": "McKinley Tech High School"
+  },
+  { "date": "August 30", "num_cases": 2, "school": "Janney Elementary School" },
+  {
+    "date": "August 30",
+    "num_cases": 1,
+    "school": "Randle Highlands Elementary School"
+  },
+  {
+    "date": "August 30",
+    "num_cases": 1,
+    "school": "Duke Ellington High School"
+  },
+  { "date": "August 30", "num_cases": 1, "school": "Murch Elementary School" },
+  { "date": "August 27", "num_cases": 1, "school": "Kramer Middle School" },
+  { "date": "August 27", "num_cases": 1, "school": "Woodson High School" },
+  {
+    "date": "August 27",
+    "num_cases": 1,
+    "school": "Bancroft Elementary School"
+  },
+  { "date": "August 27", "num_cases": 1, "school": "Jefferson Middle School" },
+  {
+    "date": "August 27",
+    "num_cases": 1,
+    "school": "Hendley Elementary School"
+  },
+  { "date": "August 27", "num_cases": 1, "school": "Turner Elementary School" },
+  { "date": "August 27", "num_cases": 1, "school": "Janney Elementary School" },
+  {
+    "date": "August 27",
+    "num_cases": 1,
+    "school": "Burroughs Elementary School"
+  },
+  { "date": "August 26", "num_cases": 1, "school": "Powell Elementary School" },
+  {
+    "date": "August 26",
+    "num_cases": 1,
+    "school": "Peabody Elementary School"
+  },
+  {
+    "date": "August 26",
+    "num_cases": 1,
+    "school": "Smothers Elementary School"
+  },
+  { "date": "August 25", "num_cases": 2, "school": "Boone Elementary School" },
+  {
+    "date": "August 25",
+    "num_cases": 1,
+    "school": "Luke C. Moore High School"
+  },
+  {
+    "date": "August 25",
+    "num_cases": 1,
+    "school": "Shepherd Elementary School"
+  },
+  { "date": "August 25", "num_cases": 1, "school": "Deal Middle School" },
+  {
+    "date": "August 24",
+    "num_cases": 1,
+    "school": "Kelly Miller Middle School"
+  },
+  { "date": "August 24", "num_cases": 1, "school": "King Elementary School" },
+  { "date": "August 23", "num_cases": 1, "school": "Coolidge High School" },
+  { "date": "August 20", "num_cases": 1, "school": "Seaton Elementary School" },
+  {
+    "date": "August 20",
+    "num_cases": 1,
+    "school": "Houston Elementary School"
+  },
+  {
+    "date": "August 19",
+    "num_cases": 1,
+    "school": "Stuart Hobson Middle School"
+  },
+  { "date": "August 18", "num_cases": 1, "school": "Beers Elementary School" }
+]
