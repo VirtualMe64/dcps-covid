@@ -24,18 +24,25 @@ const DateGraph = (props) => {
   const parseCasesByDate = () => {
     // parse date cases, totaling cases per date
     let dateCases = {};
-    props.caseData.forEach((letter) => {
-      const { date, num_cases } = letter;
-      let dateVar = new Date(date);
-      if (!(date in dateCases)) {
-        dateCases[date] = {
-          num_cases: num_cases,
-          date_var: dateVar,
-        };
-      } else {
-        dateCases[date].num_cases += num_cases;
-      }
-    });
+    props.caseData
+      .filter((letter) => {
+        if (!props.schoolFilter) {
+          return true;
+        }
+        return letter.school === props.schoolFilter;
+      })
+      .forEach((letter) => {
+        const { date, num_cases } = letter;
+        let dateVar = new Date(date);
+        if (!(date in dateCases)) {
+          dateCases[date] = {
+            num_cases: num_cases,
+            date_var: dateVar,
+          };
+        } else {
+          dateCases[date].num_cases += num_cases;
+        }
+      });
     setCasesByDate(dateCases);
   };
 
@@ -62,9 +69,12 @@ const DateGraph = (props) => {
 
     let dates = [];
     let current_date = earliestDate;
-    while (current_date < latestDate) {
+    while (current_date <= latestDate) {
       dates.push(current_date);
-      current_date = new Date(current_date.setDate(current_date.getDate() + 1));
+      let current_date_copy = new Date(current_date);
+      current_date = new Date(
+        current_date_copy.setDate(current_date_copy.getDate() + 1)
+      );
     }
 
     const dateToName = (date) => {
@@ -80,7 +90,7 @@ const DateGraph = (props) => {
       labels,
       datasets: [
         {
-          label: "Total COVID Cases",
+          label: "New COVID Cases",
           backgroundColor: colors.bars,
           data,
         },
@@ -97,8 +107,10 @@ const DateGraph = (props) => {
       },
     },
     title: {
-      display: true,
-      text: "New DCPS COVID Cases by Date",
+      display: props.title,
+      text: `${
+        props.schoolFilter ? props.schoolFilter : "DCPS"
+      } COVID Cases by Date`,
       fontSize: 30,
     },
   };
@@ -107,6 +119,7 @@ const DateGraph = (props) => {
     {
       ticks: {
         beginAtZero: true,
+        precision: 0,
       },
       gridLines: {
         color: colors.grid,
@@ -127,12 +140,17 @@ const DateGraph = (props) => {
   ];
 
   const onClick = (elem) => {
-    if (elem.length === 0) {
-      return;
+    if (props.setDateFilter && props.setGraphMode) {
+      if (elem.length === 0) {
+        return;
+      }
+      let date = elem[0]._model.label;
+      props.setDateFilter(date);
+      props.setGraphMode(false);
     }
-    let date = elem[0]._model.label;
-    props.setDateFilter(date);
-    props.setGraphMode(false);
+    if (props.handleBarClick) {
+      props.handleBarClick(elem);
+    }
   };
 
   return props.horizontal ? (

@@ -4,7 +4,7 @@
   padding: none;
 }
 
-.App-header {
+.App-header-summary {
   height: 100vh;
   width: 100%;
   display: flex;
@@ -14,7 +14,23 @@
   font-size: calc(10px + 2vmin);
 }
 
+.App-header-home {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+}
+
 .Graph-container {
   width: 75%;
   height: 75%;
+}
+
+.School-search {
+  max-width: 600px;
+  height: 60px;
+  width: 100%;
+  font-size: 25px;
 }

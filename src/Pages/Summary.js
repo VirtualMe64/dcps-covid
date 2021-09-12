@@ -9,9 +9,7 @@ import { useMediaQuery } from "react-responsive";
 
 const SummaryPage = () => {
   const [graphMode, setGraphMode] = React.useState(true);
-  const tallScreen = useMediaQuery({ maxWidth: 1000 }, undefined, () => {
-    console.log("change");
-  });
+  const tallScreen = useMediaQuery({ maxWidth: 1000 });
   const [dateFilter, setDateFilter] = React.useState(null);
 
   React.useEffect(() => {
@@ -26,7 +24,7 @@ const SummaryPage = () => {
   return (
     <div className="App" style={{ backgroundColor: colors.background }}>
       <header
-        className="App-header"
+        className="App-header-summary"
         style={{ backgroundColor: colors.background, color: colors.text }}
       >
         <h1 onClick={handleHeaderClick}>DCPS COVID-19 Data</h1>
@@ -37,6 +35,7 @@ const SummaryPage = () => {
               horizontal={tallScreen}
               setDateFilter={setDateFilter}
               setGraphMode={setGraphMode}
+              title={true}
             />
           ) : (
             <SchoolCasesGraph
