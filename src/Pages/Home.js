@@ -66,7 +66,7 @@ const SchoolSummary = (props) => {
       caseData.filter(
         (letter) => letter.date === date && letter.school === props.school
       )[0].url,
-      "__blank"
+      "_blank"
     );
   };
 
@@ -75,7 +75,7 @@ const SchoolSummary = (props) => {
   }, []);
 
   return (
-    <div className="Graph-container">
+    <div className="Graph-container-2">
       <h1>{props.school}</h1>
       <h4>
         Total cases:{" "}
