@@ -104,11 +104,13 @@ const SchoolCasesGraph = (props) => {
     <HorizontalBar
       data={data}
       options={{ ...options, scales: { yAxes: xAxes, xAxes: yAxes } }}
+      onElementsClick={props.handleBarClick}
     />
   ) : (
     <Bar
       data={data}
       options={{ ...options, scales: { yAxes: yAxes, xAxes: xAxes } }}
+      onElementsClick={props.handleBarClick}
     />
   );
 };

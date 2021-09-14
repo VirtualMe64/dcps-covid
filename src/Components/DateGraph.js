@@ -140,6 +140,10 @@ const DateGraph = (props) => {
   ];
 
   const onClick = (elem) => {
+    if (props.handleBarClick) {
+      props.handleBarClick(elem);
+      return;
+    }
     if (props.setDateFilter && props.setGraphMode) {
       if (elem.length === 0) {
         return;
@@ -147,9 +151,6 @@ const DateGraph = (props) => {
       let date = elem[0]._model.label;
       props.setDateFilter(date);
       props.setGraphMode(false);
-    }
-    if (props.handleBarClick) {
-      props.handleBarClick(elem);
     }
   };
 
