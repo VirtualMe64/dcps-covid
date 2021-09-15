@@ -1,5 +1,95 @@
 [
   {
+    "date": "September 13",
+    "num_cases": 1,
+    "school": "Bancroft Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/bancroft-elementary-school-covid-19-notification-9/"
+  },
+  {
+    "date": "September 13",
+    "num_cases": 1,
+    "school": "Amidon-Bowen Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/amidon-bowen-elementary-school-covid-19-notification-7/"
+  },
+  {
+    "date": "September 13",
+    "num_cases": 1,
+    "school": "Oyster-Adams Bilingual School",
+    "url": "https://dcpsreopenstrong.com/articles/oyster-adams-bilingual-school-covid-19-notification-10/"
+  },
+  {
+    "date": "September 13",
+    "num_cases": 2,
+    "school": "Murch Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/murch-elementary-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 13",
+    "num_cases": 1,
+    "school": "Tyler Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/tyler-elementary-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 11",
+    "num_cases": 1,
+    "school": "Payne Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/payne-elementary-school-covid-19-notification/"
+  },
+  {
+    "date": "September 10",
+    "num_cases": 1,
+    "school": "Ballou High School",
+    "url": "https://dcpsreopenstrong.com/articles/ballou-high-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 10",
+    "num_cases": 1,
+    "school": "Boone Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/boone-elementary-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 10",
+    "num_cases": 1,
+    "school": "Amidon-Bowen Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/amidon-bowen-elementary-school-covid-19-notification-7/"
+  },
+  {
+    "date": "September 10",
+    "num_cases": 1,
+    "school": "Tyler Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/tyler-elementary-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 10",
+    "num_cases": 1,
+    "school": "Cardozo Education Campus",
+    "url": "https://dcpsreopenstrong.com/articles/cardozo-education-campus-covid-19-notification-7/"
+  },
+  {
+    "date": "September 10",
+    "num_cases": 1,
+    "school": "Patterson Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/patterson-elementary-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 10",
+    "num_cases": 1,
+    "school": "School-Within-School at Goding",
+    "url": "https://dcpsreopenstrong.com/articles/school-within-school-at-goding-covid-19-notification/"
+  },
+  {
+    "date": "September 10",
+    "num_cases": 1,
+    "school": "Capitol Hill Montessori School",
+    "url": "https://dcpsreopenstrong.com/articles/capitol-hill-montessori-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 10",
+    "num_cases": 1,
+    "school": "Amidon-Bowen Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/amidon-bowen-elementary-school-covid-19-notification-6/"
+  },
+  {
     "date": "September 10",
     "num_cases": 1,
     "school": "Browne Education Campus",
@@ -110,6 +200,54 @@
   {
     "date": "September 9",
     "num_cases": 1,
+    "school": "Banneker High School",
+    "url": "https://dcpsreopenstrong.com/articles/banneker-high-school-covid-19-notification/"
+  },
+  {
+    "date": "September 9",
+    "num_cases": 1,
+    "school": "Truesdell Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/truesdell-elementary-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 9",
+    "num_cases": 1,
+    "school": "Ballou High School",
+    "url": "https://dcpsreopenstrong.com/articles/ballou-high-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 9",
+    "num_cases": 1,
+    "school": "Shepherd Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/shepherd-elementary-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 9",
+    "num_cases": 1,
+    "school": "Browne Education Campus",
+    "url": "https://dcpsreopenstrong.com/articles/browne-education-campus-covid-19-notification-4/"
+  },
+  {
+    "date": "September 9",
+    "num_cases": 1,
+    "school": "Jefferson Middle School ",
+    "url": "https://dcpsreopenstrong.com/articles/jefferson-middle-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 9",
+    "num_cases": 1,
+    "school": "Raymond Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/raymond-elementary-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 9",
+    "num_cases": 1,
+    "school": "Capitol Hill Montessori School",
+    "url": "https://dcpsreopenstrong.com/articles/capitol-hill-montessori-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 9",
+    "num_cases": 1,
     "school": "Hart Middle School",
     "url": "https://dcpsreopenstrong.com/articles/hart-middle-school-covid-19-notification-2/"
   },
@@ -127,7 +265,7 @@
   },
   {
     "date": "September 9",
-    "num_cases": 2,
+    "num_cases": 1,
     "school": "Johnson Middle School ",
     "url": "https://dcpsreopenstrong.com/articles/johnson-middle-school-covid-19-notification-5/"
   },
@@ -184,6 +322,24 @@
     "num_cases": 1,
     "school": "Luke C. Moore High School",
     "url": "https://dcpsreopenstrong.com/articles/luke-c-moore-high-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 8",
+    "num_cases": 1,
+    "school": "F.S. Key Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/f-s-key-elementary-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 8",
+    "num_cases": 2,
+    "school": "Roosevelt High School",
+    "url": "https://dcpsreopenstrong.com/articles/roosevelt-high-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 8",
+    "num_cases": 1,
+    "school": "MacFarland Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/macfarland-middle-school-covid-19-notification-4/"
   },
   {
     "date": "September 8",
@@ -256,6 +412,18 @@
     "num_cases": 1,
     "school": "Janney Elementary School",
     "url": "https://dcpsreopenstrong.com/articles/janney-elementary-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 7",
+    "num_cases": 1,
+    "school": "Capitol Hill Montessori School",
+    "url": "https://dcpsreopenstrong.com/articles/capitol-hill-montessori-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 7",
+    "num_cases": 1,
+    "school": "Johnson Middle School ",
+    "url": "https://dcpsreopenstrong.com/articles/johnson-middle-school-covid-19-notification-6/"
   },
   {
     "date": "September 7",

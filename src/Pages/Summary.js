@@ -3,6 +3,7 @@ import colors from "../colors";
 import SchoolCasesGraph from "../Components/SchoolCasesGraph";
 import DateGraph from "../Components/DateGraph";
 import caseData from "../cases.json";
+import schoolData from "../school_data.json";
 import React from "react";
 import { defaults } from "chart.js";
 import { useMediaQuery } from "react-responsive";

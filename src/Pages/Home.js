@@ -1,10 +1,12 @@
 import "../App.css";
 import colors from "../colors";
 import caseData from "../cases.json";
+import schoolData from "../school_data.json";
 import React from "react";
 import Select from "react-select";
 import DateGraph from "../Components/DateGraph";
 import { useMediaQuery } from "react-responsive";
+import { parseSync } from "@babel/core";
 
 const HomePage = () => {
   const [options, setOptions] = React.useState([]);
@@ -42,6 +44,7 @@ const HomePage = () => {
           <SchoolSummary
             school={school}
             setSchool={setSchool}
+            schoolData={schoolData}
             isMobile={isMobile}
           />
         )}
@@ -70,13 +73,29 @@ const SchoolSummary = (props) => {
     );
   };
 
+  const getEnrollment = (school) => {
+    const try1 = props.schoolData[props.school];
+    if (try1) {
+      return try1.enrollment;
+    }
+    const try2 = Object.values(props.schoolData).filter(
+      (school) => school.nicknames && school.nicknames.includes(props.school)
+    )[0].enrollment;
+    if (try2) {
+      return try2;
+    }
+    return "N/A";
+  };
+
   React.useEffect(() => {
     document.addEventListener("keydown", handleKeyDown);
   }, []);
 
   return (
     <div className="Graph-container-2">
-      <h1>{props.school}</h1>
+      <h1>
+        {props.school} ({getEnrollment(props.school)})
+      </h1>
       <h4>
         Total cases:{" "}
         {caseData

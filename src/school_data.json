@@ -1,0 +1,1066 @@
+{
+  "Aiton Elementary School": {
+    "address": "533 48th Pl. NE\nWashington, DC 20019",
+    "phone_number": "(202) 671-6060\n(202) 724-4630 \nfax",
+    "site": "https://www.aitonelementary.org/",
+    "principal": "Malaika Golden",
+    "ward": "7",
+    "grades": "PK3-5th",
+    "enrollment": "224"
+  },
+  "Amidon-Bowen Elementary School": {
+    "address": "401 I St. SW\nWashington, DC 20024",
+    "phone_number": "(202) 724-4867\n(202) 724-4868 \nfax",
+    "site": "http://profiles.dcps.dc.gov/amidon-bowen+elementary+school",
+    "principal": "TaMikka Sykes",
+    "ward": "6",
+    "grades": "PK3-5th",
+    "enrollment": "335"
+  },
+  "Anacostia High School": {
+    "address": "1601 16th St. SE\nWashington, DC 20020",
+    "phone_number": "(202) 698-2155\n(202) 698-2188 \nfax",
+    "site": "https://www.anacostiahs.org/",
+    "principal": "William Haith",
+    "ward": "8",
+    "grades": "9th-12th",
+    "enrollment": "321"
+  },
+  "Ballou High School": {
+    "address": "3401 4th St. SE\nWashington, DC 20032",
+    "phone_number": "(202) 645-3400\n(202) 645-3397 \nfax",
+    "site": "http://www.balloudc.org",
+    "principal": "Willie Jackson",
+    "ward": "8",
+    "grades": "9th-12th",
+    "enrollment": "573"
+  },
+  "Ballou STAY High School": {
+    "address": "3401 4th St. SE\nWashington, DC 20032",
+    "phone_number": "(202) 645-3390\n(202) 645-3935 \nfax",
+    "site": "http://www.balloustay.com/index.jsp",
+    "principal": "Cara Fuller",
+    "ward": "8",
+    "grades": "9-12, Adult",
+    "enrollment": "491"
+  },
+  "Bancroft Elementary School": {
+    "address": "1755 Newton St. NW\nWashington, DC 20010",
+    "phone_number": "(202) 673-7280\n(202) 673-6991 \nfax",
+    "site": "http://bancroftelementary.org",
+    "principal": "Jessica Morales",
+    "ward": "1",
+    "grades": "PK3-5th",
+    "enrollment": "616"
+  },
+  "Bard High School Early College DC (Bard DC)": {
+    "address": "4430 H St. SE\nWashington, DC 20019",
+    "phone_number": "(202) 898-4664\n \nfax",
+    "site": "https://bhsec.bard.edu/dc/",
+    "principal": "Vanessa Anderson",
+    "ward": "7",
+    "grades": "9th-12th",
+    "enrollment": "167"
+  },
+  "Barnard Elementary School": {
+    "address": "430 Decatur St. NW\nWashington, DC 20011",
+    "phone_number": "(202) 576-1100\n(202) 541-6010 \nfax",
+    "site": "http://profiles.dcps.dc.gov/Barnard+Elementary+School",
+    "principal": "Grace Reid",
+    "ward": "4",
+    "grades": "PK3-5th",
+    "enrollment": "646"
+  },
+  "Beers Elementary School": {
+    "address": "3600 Alabama Ave. SE\nWashington, DC 20020",
+    "phone_number": "(202) 939-4800\n(202) 645-3225 \nfax",
+    "site": "http://annebeers.org/",
+    "principal": "Gwendolyn Payton",
+    "ward": "7",
+    "grades": "PK3-5th",
+    "enrollment": "479"
+  },
+  "Benjamin Banneker High School": {
+    "address": "1600 9th St. NW\nWashington, DC 20001",
+    "phone_number": "(202) 671-6320\n(202) 673-2231 \nfax",
+    "site": "http://www.benjaminbanneker.org",
+    "principal": "Anita Berger",
+    "ward": "6",
+    "grades": "9th-12th",
+    "enrollment": "523",
+    "nicknames": ["Banneker Academic High School", "Banneker High School"]
+  },
+  "Brent Elementary School": {
+    "address": "301 North Carolina Ave. SE\nWashington, DC 20003",
+    "phone_number": "(202) 698-3363\n(202) 698-3369 \nfax",
+    "site": "http://brentelementary.org",
+    "principal": "Norah Lycknell",
+    "ward": "6",
+    "grades": "PK3-5th",
+    "enrollment": "437"
+  },
+  "Brightwood Elementary School": {
+    "address": "1300 Nicholson St. NW\nWashington, DC 20011",
+    "phone_number": "(202) 722-5670\n(202) 576-6168 \nfax",
+    "site": "http://profiles.dcps.dc.gov/Brightwood+Education+Campus",
+    "principal": "Maurice Kennard",
+    "ward": "4",
+    "grades": "PK3-5th",
+    "enrollment": "713"
+  },
+  "Brookland Middle School": {
+    "address": "1150 Michigan Ave NE\nWashington , DC 20017",
+    "phone_number": "(202) 759-1999\n(202) 671-6251 \nfax",
+    "site": "http://www.brooklandms.org/",
+    "principal": "Kerry Richardson",
+    "ward": "5",
+    "grades": "6th-8th",
+    "enrollment": "360"
+  },
+  "Browne Education Campus": {
+    "address": "850 26th St. NE\nWashington, DC 20002",
+    "phone_number": "(202) 671-6210\n(202) 671-2305 \nfax",
+    "site": "https://www.brownedc.org/",
+    "principal": "Shawna Dix",
+    "ward": "5",
+    "grades": "PK3-8th",
+    "enrollment": "433"
+  },
+  "Bruce-Monroe Elementary School @ Park View": {
+    "address": "3560 Warder St. NW\nWashington, DC 20010",
+    "phone_number": "(202) 576-6222\n(202) 576-6225 \nfax",
+    "site": "http://bmpv.org",
+    "principal": "Alethea Bustillo",
+    "ward": "1",
+    "grades": "PK3-5th",
+    "enrollment": "473"
+  },
+  "Bunker Hill Elementary School": {
+    "address": "1401 Michigan Ave NE\nWashington, DC 20017",
+    "phone_number": "(202) 576-6095\n(202) 576-4632 \nfax",
+    "site": "https://www.bunkerhilles.org/",
+    "principal": "Jennifer Tompkins",
+    "ward": "5",
+    "grades": "PK3-5th",
+    "enrollment": "230"
+  },
+  "Burroughs Elementary School": {
+    "address": "1820 Monroe St. NE\nWashington, DC 20018",
+    "phone_number": "(202) 576-6150\n(202) 576-6819 \nfax",
+    "site": "http://www.jbecstem.com",
+    "principal": "LeVar Jenkins",
+    "ward": "5",
+    "grades": "PK3-5th",
+    "enrollment": "285"
+  },
+  "Burrville Elementary School": {
+    "address": "801 Division Ave. NE\nWashington, DC 20019",
+    "phone_number": "(202) 671-6020\n(202) 724-5578 \nfax",
+    "site": "http://www.burrvillees.org/",
+    "principal": "Chunita Pilgrim",
+    "ward": "7",
+    "grades": "PK3-5th",
+    "enrollment": "311"
+  },
+  "C.W. Harris Elementary School": {
+    "address": "301 53rd St. SE\nWashington, DC 20019",
+    "phone_number": "(202) 645-3188\n(202) 645-3190 \nfax",
+    "site": "http://www.cwharriselementary.org/",
+    "principal": "Derek Gorham",
+    "ward": "7",
+    "grades": "PK3-5th",
+    "enrollment": "235",
+    "nicknames": ["CW Harris Elementary School"]
+  },
+  "Capitol Hill Montessori School @ Logan": {
+    "address": "215 G St. NE\nWashington , DC 20002",
+    "phone_number": "(202) 698-4467\n(202) 698-4533 \nfax",
+    "site": "http://capitolhillmontessorischool.org",
+    "principal": "Kim Adutwum",
+    "ward": "6",
+    "grades": "PK3-8th",
+    "enrollment": "325",
+    "nicknames": ["Capitol Hill Montessori School"]
+  },
+  "Cardozo Education Campus": {
+    "address": "1200 Clifton St. NW\nWashington, DC 20009",
+    "phone_number": "(202) 673-7385\n(202) 673-2232 \nfax",
+    "site": "http://www.cardozohs.com",
+    "principal": "Arthur Mola",
+    "ward": "1",
+    "grades": "6th-12th",
+    "enrollment": "725"
+  },
+  "Cleveland Elementary School": {
+    "address": "1825 8th St. NW\nWashington, DC 20001",
+    "phone_number": "(202) 939-4380\n(202) 673-6461 \nfax",
+    "site": "https://www.clevelandesdc.com/",
+    "principal": "Anna Krughoff",
+    "ward": "1",
+    "grades": "PK3-5th",
+    "enrollment": "308"
+  },
+  "Columbia Heights Education Campus": {
+    "address": "3101 16th St. NW\nWashington, DC 20010",
+    "phone_number": "(202) 939-7700\n(202) 576-9147 \nfax",
+    "site": "http://checdc.org",
+    "principal": "Maria Tukeva",
+    "ward": "1",
+    "grades": "6th-12th",
+    "enrollment": "1481"
+  },
+  "Coolidge High School": {
+    "address": "6315 5th St. NW\nWashington, DC 20011",
+    "phone_number": "(202) 671-6080\n(202) 576-3147 \nfax",
+    "site": "http://www.coolidgeshs.org",
+    "principal": "Semanthe Bright",
+    "ward": "4",
+    "grades": "9th-12th",
+    "enrollment": "457"
+  },
+  "Deal Middle School": {
+    "address": "3815 Fort Dr. NW\nWashington, DC 20016",
+    "phone_number": "(202) 939-2010\n(202) 282-1116 \nfax",
+    "site": "https://www.alicedealmiddleschool.org/",
+    "principal": "Diedre Neal",
+    "ward": "3",
+    "grades": "6th-8th",
+    "enrollment": "1458"
+  },
+  "Dorothy I. Height Elementary School": {
+    "address": "4300 13th St. NW\nWashington, DC 20011",
+    "phone_number": "(202) 723-4100\n(202) 723-6867 \nfax",
+    "site": "http://www.dorothyheightes.org",
+    "principal": "Masi Preston",
+    "ward": "4",
+    "grades": "PK3-5th",
+    "enrollment": "476"
+  },
+  "Drew Elementary School": {
+    "address": "5600 Eads St. NE\nWashington, DC 20019",
+    "phone_number": "(202) 671-6040\n(202) 724-4924 \nfax",
+    "site": "http://www.drewelementary.org",
+    "principal": "Naimah Salahuddin",
+    "ward": "7",
+    "grades": "PK3-5th",
+    "enrollment": "234"
+  },
+  "Duke Ellington School of the Arts": {
+    "address": "3500 R St. NW\nWashington, DC 20007",
+    "phone_number": "(202) 282-0123\n(202) 337-7847 \nfax",
+    "site": "http://www.ellingtonschool.org",
+    "principal": "Sandi Logan",
+    "ward": "2",
+    "grades": "9th-12th",
+    "enrollment": "558",
+    "nicknames": ["Duke Ellington High School"]
+  },
+  "Dunbar High School": {
+    "address": "101 N St. NW\nWashington, DC 20001",
+    "phone_number": "(202) 698-3762\n(202) 673-2233 \nfax",
+    "site": "http://www.dunbarhsdc.org/",
+    "principal": "Nadine Smith",
+    "ward": "5",
+    "grades": "9th-12th",
+    "enrollment": "648"
+  },
+  "Eastern High School": {
+    "address": "1700 East Capitol St. NE\nWashington, DC 20003",
+    "phone_number": "(202) 698-4500\n(202) 698-4800 \nfax",
+    "site": "http://www.easternhighschooldc.org",
+    "principal": "Sah Brown",
+    "ward": "6",
+    "grades": "9th-12th",
+    "enrollment": "792"
+  },
+  "Eaton Elementary School": {
+    "address": "3301 Lowell St. NW\nWashington, DC 20008",
+    "phone_number": "(202) 282-0103\n(202) 282-0074 \nfax",
+    "site": "http://eatondc.org",
+    "principal": "Jacqueline Anderson (Interim)",
+    "ward": "3",
+    "grades": "PK4-5th",
+    "enrollment": "467"
+  },
+  "Eliot-Hine Middle School": {
+    "address": "1830 Constitution Ave. NE\nWashington, DC 20002",
+    "phone_number": "(202) 939-5380\n(202) 673-8063 \nfax",
+    "site": "http://www.eliothinemiddleschool.org",
+    "principal": "Marlene Magrino",
+    "ward": "6",
+    "grades": "6th-8th",
+    "enrollment": "262"
+  },
+  "Excel Academy": {
+    "address": "2501 Martin Luther King, Jr. Ave. SE\nWashington, DC 20020",
+    "phone_number": "(202) 373-0097\n(202) 373-0477 \nfax",
+    "site": "http://www.excelps.org",
+    "principal": "Shaunte Daniel (Interim)",
+    "ward": "8",
+    "grades": "PK3-8th",
+    "enrollment": "449"
+  },
+  "Garfield Elementary School": {
+    "address": "2435 Alabama Ave. SE\nWashington, DC 20020",
+    "phone_number": "(202) 671-6140\n(202) 671-3156 \nfax",
+    "site": "https://profiles.dcps.dc.gov/Garfield+Elementary+School",
+    "principal": "Kennard Branch",
+    "ward": "8",
+    "grades": "PK3-5th",
+    "enrollment": "288"
+  },
+  "Garrison Elementary School": {
+    "address": "1200 S St. NW\nWashington, DC 20009",
+    "phone_number": "(202) 673-7263\n(202) 673-6828 \nfax",
+    "site": "http://www.garrisonelementary.org/",
+    "principal": "Brigham Kiplinger",
+    "ward": "2",
+    "grades": "PK3-5th",
+    "enrollment": "291"
+  },
+  "H.D. Cooke Elementary School": {
+    "address": "2525 17th St. NW\nWashington, DC 20009",
+    "phone_number": "(202) 939-5390\n(202) 671-2757 \nfax",
+    "site": "http://www.hdcookeschool.org/",
+    "principal": "Ryan Lam",
+    "ward": "1",
+    "grades": "PK3-5th",
+    "enrollment": "407"
+  },
+  "H.D. Woodson High School": {
+    "address": "540 55th St. NE\nWashington, DC 20019",
+    "phone_number": "(202) 939-2030\n(202) 645-4193 \nfax",
+    "site": "https://www.hdwoodson.org/",
+    "principal": "William Massey",
+    "ward": "7",
+    "grades": "9th-12th",
+    "enrollment": "468",
+    "nicknames": ["Woodson High School"]
+  },
+  "Hardy Middle School": {
+    "address": "1819 35th St. NW\nWashington, DC 20007",
+    "phone_number": "(202) 729-4350\n(202) 576-9443 \nfax",
+    "site": "http://www.hardyms.org",
+    "principal": "Lucas Cooke",
+    "ward": "2",
+    "grades": "6th-8th",
+    "enrollment": "474"
+  },
+  "Hart Middle School": {
+    "address": "601 Mississippi Ave. SE\nWashington, DC 20032",
+    "phone_number": "(202) 671-6426\n(202) 645-3426 \nfax",
+    "site": "http://www.charleshartmiddle.org/",
+    "principal": "Charlette Butler",
+    "ward": "8",
+    "grades": "6th-8th",
+    "enrollment": "428"
+  },
+  "Hearst Elementary School": {
+    "address": "3950 37th St. NW\nWashington, DC 20008",
+    "phone_number": "(202) 282-0106\n(202) 282-2303 \nfax",
+    "site": "http://www.hearstes.org/",
+    "principal": "Jennifer Geoffroy",
+    "ward": "3",
+    "grades": "PK4-5th",
+    "enrollment": "340"
+  },
+  "Hendley Elementary School": {
+    "address": "425 Chesapeake St. SE\nWashington, DC 20032",
+    "phone_number": "(202) 645-3450\n(202) 645-7098 \nfax",
+    "site": "http://profiles.dcps.dc.gov/Hendley+Elementary+School",
+    "principal": "Demetrius Lucas (Interim)",
+    "ward": "8",
+    "grades": "PK3-5th",
+    "enrollment": "357"
+  },
+  "Houston Elementary School": {
+    "address": "1100 50th Pl. NE\nWashington, DC 20019",
+    "phone_number": "(202) 671-6170\n(202) 724-4625 \nfax",
+    "site": "https://www.houstonelementary.org/",
+    "principal": "Camille Townsend",
+    "ward": "7",
+    "grades": "PK3-5th",
+    "enrollment": "274"
+  },
+  "Hyde-Addison Elementary School": {
+    "address": "3219 O St. NW\nWashington, DC 20007",
+    "phone_number": "(202) 282-0170\n(202) 282-0087 \nfax",
+    "site": "https://www.hydeaddisondc.org/",
+    "principal": "Calvin Hooks",
+    "ward": "2",
+    "grades": "PK3-5th",
+    "enrollment": "376"
+  },
+  "Ida B. Wells Middle School": {
+    "address": "405 Sheridan St. NW\nWashington, DC 20011",
+    "phone_number": "(202) 671-0693\n \nfax",
+    "site": "https://www.idabwellsms.org/",
+    "principal": "Megan Vroman",
+    "ward": "4",
+    "grades": "6th\u20138th",
+    "enrollment": "186"
+  },
+  "J.O. Wilson Elementary School": {
+    "address": "660 K St. NE\nWashington, DC 20002",
+    "phone_number": "(202) 698-4733\n(202) 698-4727 \nfax",
+    "site": "http://www.jowilsondc.org",
+    "principal": "Mitchell Brunson",
+    "ward": "6",
+    "grades": "PK3-5th",
+    "enrollment": "467"
+  },
+  "Janney Elementary School": {
+    "address": "4130 Albemarle St. NW\nWashington, DC 20016",
+    "phone_number": "(202) 282-0110\n(202) 282-0112 \nfax",
+    "site": "http://janneyschool.org",
+    "principal": "Danielle Singh",
+    "ward": "3",
+    "grades": "PK4-5th",
+    "enrollment": "752"
+  },
+  "Jefferson Middle School Academy": {
+    "address": "801 7th St. SW\nWashington, D.C. 20024",
+    "phone_number": "(202) 729-3270\n(202) 724-2459 \nfax",
+    "site": "http://www.JeffersonTrojans.org",
+    "principal": "Greg Dohmann",
+    "ward": "6",
+    "grades": "6th-8th",
+    "enrollment": "353",
+    "nicknames": ["Jefferson Middle School", "Jefferson Middle School "]
+  },
+  "Johnson Middle School": {
+    "address": "1400 Bruce Pl. SE\nWashington, DC 20020",
+    "phone_number": "(202) 939-3140\n(202) 645-5882 \nfax",
+    "site": "http://www.johnsonmiddledc.com/",
+    "principal": "Latisha Coleman (Interim)",
+    "ward": "8",
+    "grades": "6th-8th",
+    "enrollment": "337",
+    "nicknames": ["Johnson Middle School "]
+  },
+  "Kelly Miller Middle School": {
+    "address": "301 49th St. NE\nWashington, DC 20019",
+    "phone_number": "(202) 388-6870\n(202) 727-8330 \nfax",
+    "site": "http://kellymillerms.org",
+    "principal": "Kortni Stafford",
+    "ward": "7",
+    "grades": "6th-8th",
+    "enrollment": "538"
+  },
+  "Ketcham Elementary School": {
+    "address": "1919 15th St. SE\nWashington, DC 20020",
+    "phone_number": "(202) 698-1122\n(202) 698-1113 \nfax",
+    "site": "http://www.ketchamelementary.org",
+    "principal": "LaCondria Beckwith",
+    "ward": "8",
+    "grades": "PK3-5th",
+    "enrollment": "326"
+  },
+  "Key Elementary School": {
+    "address": "5001 Dana Pl. NW\nWashington, DC 20016",
+    "phone_number": "(202) 729-3280\n(202) 282-0188 \nfax",
+    "site": "http://keyschooldc.org/dcps/",
+    "principal": "David Landeryou",
+    "ward": "3",
+    "grades": "PK4-5th",
+    "enrollment": "382",
+    "nicknames": ["F.S. Key Elementary School"]
+  },
+  "Kimball Elementary School": {
+    "address": "3375 Minnesota Ave. SE\nWashington, DC 20019",
+    "phone_number": "(202) 671-6260\n(202) 645-3147 \nfax",
+    "site": "https://www.kimballdc.com/",
+    "principal": "Eric Dabney",
+    "ward": "7",
+    "grades": "PK3-5th",
+    "enrollment": "392"
+  },
+  "King Elementary School": {
+    "address": "3200 6th St. SE\nWashington, DC 20032",
+    "phone_number": "(202) 939-4900\n(202) 645-7308 \nfax",
+    "site": "http://kingdc.org",
+    "principal": "Angel Hunter",
+    "ward": "8",
+    "grades": "PK3-5th",
+    "enrollment": "304"
+  },
+  "Kramer Middle School": {
+    "address": "1700 Q St. SE\nWashington, DC 20020",
+    "phone_number": "(202) 939-3150\n \nfax",
+    "site": "https://www.kramerdc.org/",
+    "principal": "Katreena Shelby",
+    "ward": "8",
+    "grades": "6th-8th",
+    "enrollment": "208"
+  },
+  "Lafayette Elementary School": {
+    "address": "5701 Broad Branch Rd. NW\nWashington, DC 20015",
+    "phone_number": "(202) 282-0116\n(202) 282-1126 \nfax",
+    "site": "http://www.lafayettehsa.org/",
+    "principal": "Carrie Broquard",
+    "ward": "4",
+    "grades": "PK4-5th",
+    "enrollment": "940",
+    "nicknames": ["Lafayette Elementary School "]
+  },
+  "Langdon Elementary School": {
+    "address": "1900 Evarts St. NE\nWashington, DC 20018",
+    "phone_number": "(202) 576-6048\n(202) 576-7976 \nfax",
+    "site": "https://www.langdonelementaryschool.org/",
+    "principal": "Kemi Baltimore-Husbands",
+    "ward": "5",
+    "grades": "PK3-5th",
+    "enrollment": "370"
+  },
+  "Langley Elementary School": {
+    "address": "101 T Street NE\nWashington, DC 20002",
+    "phone_number": "(202) 724-4223\n(202) 832-1377 \nfax",
+    "site": "http://www.langleyelementary.org",
+    "principal": "Kristina Kellogg",
+    "ward": "5",
+    "grades": "PK3-5th",
+    "enrollment": "308"
+  },
+  "LaSalle-Backus Elementary School": {
+    "address": "501 Riggs Rd. NE\nWashington, DC 20011",
+    "phone_number": "(202) 671-6340\n(202) 541-3859 \nfax",
+    "site": "https://www.lasallebackus.org",
+    "principal": "Shelly Gray",
+    "ward": "4",
+    "grades": "PK3-5th",
+    "enrollment": "366"
+  },
+  "Lawrence E. Boone Elementary School": {
+    "address": "2200 Minnesota Ave. SE\nWashington, DC 20020",
+    "phone_number": "(202) 671-6240\n(202) 645-3292 \nfax",
+    "site": "http://booneelementary.org",
+    "principal": "Kimberly Douglas",
+    "ward": "8",
+    "grades": "PK3-5th",
+    "enrollment": "427"
+  },
+  "Leckie Education Campus": {
+    "address": "4201 M.L. King Ave. SW\nWashington, DC 20032",
+    "phone_number": "(202) 645-3330\n(202) 645-3331 \nfax",
+    "site": "http://www.leckielionsdc.org",
+    "principal": "Niyeka Wilson",
+    "ward": "8",
+    "grades": "PK3-8th",
+    "enrollment": "491"
+  },
+  "Ludlow-Taylor Elementary School": {
+    "address": "659 G St. NE\nWashington, DC 20002",
+    "phone_number": "(202) 698-3244\n(202) 698-3250 \nfax",
+    "site": "http://ludlowtaylor.org",
+    "principal": "Rachel Williams",
+    "ward": "6",
+    "grades": "PK3-5th",
+    "enrollment": "459"
+  },
+  "Luke C. Moore High School": {
+    "address": "1001 Monroe St. NE\nWashington, DC 20017",
+    "phone_number": "(202) 281-3600\n(202) 526-5022 \nfax",
+    "site": "https://www.lukecmoore.org/",
+    "principal": "Rodney Wormsley",
+    "ward": "5",
+    "grades": "9th-12th",
+    "enrollment": "280"
+  },
+  "MacFarland Middle School": {
+    "address": "4400 Iowa Ave. NW\nWashington, DC 20011",
+    "phone_number": "(202) 671-6033\n(202) 671-6036 \nfax",
+    "site": "https://www.macfarlandms.org/",
+    "principal": "Mark Sanders",
+    "ward": "4",
+    "grades": "6th-8th",
+    "enrollment": "560"
+  },
+  "Malcolm X Elementary School @ Green": {
+    "address": "1500 Mississippi Ave. SE\nWashington, DC 20032",
+    "phone_number": "(202) 645-3409\n(202) 645-7219 \nfax",
+    "site": "http://profiles.dcps.dc.gov/Malcolm+X+Elementary+School+@+Green",
+    "principal": "Zara Berry-Young",
+    "ward": "8",
+    "grades": "PK3-5th",
+    "enrollment": "233"
+  },
+  "Mann Elementary School": {
+    "address": "4430 Newark St. NW\nWashington, DC 20016",
+    "phone_number": "(202) 282-0126\n(202) 282-0128 \nfax",
+    "site": "http://www.horacemanndc.org",
+    "principal": "Liz Whisnant",
+    "ward": "3",
+    "grades": "PK4-5th",
+    "enrollment": "426"
+  },
+  "Marie Reed Elementary School": {
+    "address": "2201 18th St. NW\nWashington, DC 20009",
+    "phone_number": "(202) 673-7308\n(202) 671-5042 \nfax",
+    "site": "http://mariereedes.org",
+    "principal": "Katie Lundgren",
+    "ward": "1",
+    "grades": "PK3-5th",
+    "enrollment": "461"
+  },
+  "Maury Elementary School": {
+    "address": "1250 Constitution Ave. NE\nWashington, DC 20002",
+    "phone_number": "(202) 698-3838\n(202) 698-3844 \nfax",
+    "site": "http://mauryelementary.com",
+    "principal": "Helena Payne Chauvenet",
+    "ward": "6",
+    "grades": "PK3-5th",
+    "enrollment": "457"
+  },
+  "McKinley Middle School": {
+    "address": "151 T. St. NE\nWashington, DC 20002",
+    "phone_number": "(202) 281-3950\n(202) 832-1293 \nfax",
+    "site": "http://mckinleytech.org/",
+    "principal": "Louise Jones",
+    "ward": "5",
+    "grades": "6th-8th",
+    "enrollment": "247",
+    "nicknames": ["McKinley Tech Middle School"]
+  },
+  "McKinley Technology High School": {
+    "address": "151 T St. NE\nWashington, DC 20002",
+    "phone_number": "(202) 281-3950\n(202) 576-6279 \nfax",
+    "site": "http://mckinleytech.org/",
+    "principal": "Louise Jones",
+    "ward": "5",
+    "grades": "9th-12th",
+    "enrollment": "653",
+    "nicknames": ["McKinley Tech High School"]
+  },
+  "Military Road Early Learning Center": {
+    "address": "1375 Missouri Ave NW\nWashington, DC 20011",
+    "phone_number": "(202) 671-6410\n \nfax",
+    "site": "http://bit.ly/MilitaryRoadELC",
+    "principal": "Amelia Hunt",
+    "ward": "4",
+    "grades": "PK3, PK4",
+    "enrollment": "N/A"
+  },
+  "Miner Elementary School": {
+    "address": "601 15th St. NE\nWashington, DC 20002",
+    "phone_number": "(202) 397-3960\n(202) 724-4957 \nfax",
+    "site": "http://www.minerelementary.org/",
+    "principal": "Katrel Angry (Interim)",
+    "ward": "6",
+    "grades": "PK3-5th",
+    "enrollment": "372"
+  },
+  "Moten Elementary School": {
+    "address": "1565 Morris Rd. SE\nWashington, DC 20020",
+    "phone_number": "(202) 698-1111\n(202) 698-1112 \nfax",
+    "site": "http://www.motenelementary.com",
+    "principal": "Akela Stanfield-Dogbe",
+    "ward": "8",
+    "grades": "PK3-5th",
+    "enrollment": "286"
+  },
+  "Murch Elementary School": {
+    "address": "4810 36th St. NW\nWashington, DC 20008",
+    "phone_number": "(202) 282-0130\n(202) 282-0132 \nfax",
+    "site": "http://www.murchschool.org",
+    "principal": "Chris Cebrzynski",
+    "ward": "3",
+    "grades": "PK4-5th",
+    "enrollment": "623"
+  },
+  "Nalle Elementary School": {
+    "address": "219 50th St. SE\nWashington, DC 20019",
+    "phone_number": "(202) 671-6280\n(202) 645-3196 \nfax",
+    "site": "http://profiles.dcps.dc.gov/Nalle+Elementary+School",
+    "principal": "Jake Lappi",
+    "ward": "7",
+    "grades": "PK3-5th",
+    "enrollment": "347"
+  },
+  "Noyes Elementary School": {
+    "address": "2725 10th St. NE\nWashington, DC 20018",
+    "phone_number": "(202) 281-2580\n(202) 576-7397 \nfax",
+    "site": "https://www.noyeselementary.com/",
+    "principal": "Kermit Burks",
+    "ward": "5",
+    "grades": "PK3-5th",
+    "enrollment": "228"
+  },
+  "Oyster-Adams Bilingual School": {
+    "address": "2801 Calvert St. NW and 2020 19th St. NW\nWashington, DC 20008",
+    "phone_number": "(202) 671-6130\n(202) 671-3087 \nfax",
+    "site": "http://www.oysteradamsbilingual.org",
+    "principal": "Julian Pineda",
+    "ward": "3",
+    "grades": "PK4-8th",
+    "enrollment": "731"
+  },
+  "Patterson Elementary School": {
+    "address": "4399 South Capitol Terr. SW\nWashington, DC 20032",
+    "phone_number": "(202) 939-5280\n(202) 645-3851 \nfax",
+    "site": "https://pattersonelementary.online",
+    "principal": "Victorie Thomas",
+    "ward": "8",
+    "grades": "PK3-5th",
+    "enrollment": "394"
+  },
+  "Payne Elementary School": {
+    "address": "1445 C St. SE\nWashington, DC 20003",
+    "phone_number": "(202) 698-3262\n(202) 698-3263 \nfax",
+    "site": "http://paynedc.org/",
+    "principal": "Stephanie Byrd",
+    "ward": "6",
+    "grades": "PK3-5th",
+    "enrollment": "321"
+  },
+  "Peabody Elementary School (Capitol Hill Cluster)": {
+    "address": "425 C St. NE\nWashington, DC 20002",
+    "phone_number": "(202) 698-3277\n(202) 698-3275 \nfax",
+    "site": "http://capitolhillclusterschool.org/",
+    "principal": "MScott Berkowitz",
+    "ward": "6",
+    "grades": "PK3-K",
+    "enrollment": "222",
+    "nicknames": ["Peabody Elementary School"]
+  },
+  "Phelps Architecture, Construction and Engineering High School": {
+    "address": "704 26th St. NE\nWashington, DC 20002",
+    "phone_number": "(202) 729-4360\n(202) 442-8438 \nfax",
+    "site": "http://phelpshsdc.org",
+    "principal": "Joshua Emmett",
+    "ward": "5",
+    "grades": "9th-12th",
+    "enrollment": "257",
+    "nicknames": ["Phelps ACE High School"]
+  },
+  "Plummer Elementary School": {
+    "address": "4601 Texas Ave. SE\nWashington, DC 20019",
+    "phone_number": "(202) 939-4360\n(202) 645-3176 \nfax",
+    "site": "http://profiles.dcps.dc.gov/Plummer+Elementary+School",
+    "principal": "Terri Fuller",
+    "ward": "7",
+    "grades": "PK3-5th",
+    "enrollment": "287"
+  },
+  "Powell Elementary School": {
+    "address": "1350 Upshur St. NW\nWashington, DC 20011",
+    "phone_number": "(202) 671-6270\n(202) 576-7155 \nfax",
+    "site": "http://www.powellbilingualelementary.com/",
+    "principal": "O'Kiyyah Lyons-Lucas",
+    "ward": "4",
+    "grades": "PK3-5th",
+    "enrollment": "529"
+  },
+  "Randle Highlands Elementary School": {
+    "address": "1650 30th St. SE\nWashington, DC 20020",
+    "phone_number": "(202) 729-3250\n(202) 645-3911 \nfax",
+    "site": "https://www.randlehighlandselementary.org/",
+    "principal": "Kristie Edwards",
+    "ward": "7",
+    "grades": "PK3-5th",
+    "enrollment": "346"
+  },
+  "Raymond Elementary School": {
+    "address": "2501 11th St. NW\nWashington, DC 20001",
+    "phone_number": "(202) 576-6236\n(202) 576-7275 \nfax",
+    "site": "http://raymondeducationcampus.org/",
+    "principal": "Natalie Hubbard",
+    "ward": "4",
+    "grades": "PK3-5th",
+    "enrollment": "517"
+  },
+  "River Terrace Education Campus": {
+    "address": "405 Anacostia Ave. NE\nWashington, DC 20019",
+    "phone_number": "(202) 442-7111\n(202) 442-8631 \nfax",
+    "site": "http://profiles.dcps.dc.gov/River+Terrace+Education+Campus",
+    "principal": "Dr. Aime\u00e9 Cepeda Pressley",
+    "ward": "7",
+    "grades": "3rd-Adult",
+    "enrollment": "128"
+  },
+  "Ron Brown College Preparatory High School": {
+    "address": "4800 Meade St. NE\nWashington, DC 20019",
+    "phone_number": "(202) 729-4343\n(202) 729-2156 \nfax",
+    "site": "http://www.rbhsmonarchs.org/",
+    "principal": "Charles Hunt II",
+    "ward": "7",
+    "grades": "9th-11th",
+    "enrollment": "252"
+  },
+  "Roosevelt High School": {
+    "address": "4301 13th St. NW\nWashington, DC 20011",
+    "phone_number": "(202) 576-6130\n(202) 541-6449 \nfax",
+    "site": "http://theodorerooseveltdc.org",
+    "principal": "Justin Ralston",
+    "ward": "4",
+    "grades": "9th-12th",
+    "enrollment": "768"
+  },
+  "Roosevelt STAY High School": {
+    "address": "4301 13th St. NW\nWashington, DC 20011",
+    "phone_number": "(202) 576-8399\n(202) 576-8478 \nfax",
+    "site": "https://www.rooseveltstay.org/",
+    "principal": "Dewayne Little",
+    "ward": "4",
+    "grades": "9-12, Adult",
+    "enrollment": "761"
+  },
+  "Ross Elementary School": {
+    "address": "1730 R St. NW\nWashington, DC 20009",
+    "phone_number": "(202) 673-7200\n(202) 673-6644 \nfax",
+    "site": "http://www.rosselementary.org",
+    "principal": "Holly Searl",
+    "ward": "2",
+    "grades": "PK4-5th",
+    "enrollment": "177"
+  },
+  "Savoy Elementary School": {
+    "address": "2400 Shannon Pl. SE\nWashington, DC 20020",
+    "phone_number": "(202) 939-2000\n(202) 535-1415 \nfax",
+    "site": "https://www.savoyes.org/",
+    "principal": "Lisa Rosado",
+    "ward": "8",
+    "grades": "PK3-5th",
+    "enrollment": "265"
+  },
+  "School Without Walls @ Francis-Stevens": {
+    "address": "2425 N St. NW\nWashington, DC 20037",
+    "phone_number": "(202) 724-4841\n(202) 724-3957 \nfax",
+    "site": "http://www.swwfs.org",
+    "principal": "Shanna Young",
+    "ward": "2",
+    "grades": "PK3-8th",
+    "enrollment": "540",
+    "nicknames": ["School Without Walls at Francis-Stevens"]
+  },
+  "School Without Walls High School": {
+    "address": "2130 G St. NW\nWashington, DC 20037",
+    "phone_number": "(202) 645-9690\n(202) 724-8536 \nfax",
+    "site": "http://www.swwhs.org",
+    "principal": "Sylvia Isaac",
+    "ward": "2",
+    "grades": "9th-12th",
+    "enrollment": "591",
+    "nicknames": ["School Without Walls"]
+  },
+  "School-Within-School @ Goding": {
+    "address": "810 26th St. NE\nWashington, DC 20002",
+    "phone_number": "(202) 727-7377\n(202) 727-9276 \nfax",
+    "site": "http://www.schoolwithinschool.org",
+    "principal": "John Burst",
+    "ward": "6",
+    "grades": "PK3-5th",
+    "enrollment": "317",
+    "nicknames": ["School-Within-School at Goding"]
+  },
+  "Seaton Elementary School": {
+    "address": "1503 10th St. NW\nWashington, DC 20001",
+    "phone_number": "(202) 673-7215\n(202) 671-5014 \nfax",
+    "site": "http://www.seatondc.org/",
+    "principal": "Suzanne Jacobs",
+    "ward": "6",
+    "grades": "PK3-5th",
+    "enrollment": "393"
+  },
+  "Shepherd Elementary School": {
+    "address": "7800 14th St NW\nWashington, DC 20012",
+    "phone_number": "(202) 576-6140\n(202) 576-7578 \nfax",
+    "site": "http://shepherd-elementary.org",
+    "principal": "Phyllis Hedlund",
+    "ward": "4",
+    "grades": "PK3-5th",
+    "enrollment": "371"
+  },
+  "Simon Elementary School": {
+    "address": "401 Mississippi Ave. SE\nWashington, DC 20032",
+    "phone_number": "(202) 645-3360\n(202) 645-3359 \nfax",
+    "site": "https://www.simonelementary.org/",
+    "principal": "Franchita Eborn",
+    "ward": "8",
+    "grades": "PK3-5th",
+    "enrollment": "253"
+  },
+  "Smothers Elementary School": {
+    "address": "1300 44th St. NE\nWashington, DC 20019",
+    "phone_number": "(202) 939-3600\n(202) 724-2377 \nfax",
+    "site": "https://www.smotherselementary.org/",
+    "principal": "Kiana Williams",
+    "ward": "7",
+    "grades": "PK3-5th",
+    "enrollment": "247"
+  },
+  "Sousa Middle School": {
+    "address": "3650 Ely Pl. SE\nWashington, DC 20019",
+    "phone_number": "(202) 729-3260\n(202) 645-0456 \nfax",
+    "site": "http://www.sousacobras.org/",
+    "principal": "Courtney Wilkerson",
+    "ward": "7",
+    "grades": "6th-8th",
+    "enrollment": "289"
+  },
+  "Stanton Elementary School": {
+    "address": "2701 Naylor Rd. SE\nWashington, DC 20020",
+    "phone_number": "(202) 671-6180\n(202) 645-3264 \nfax",
+    "site": "https://www.stantonpride.com",
+    "principal": "Harold McCray Jr.",
+    "ward": "8",
+    "grades": "PK3-5th",
+    "enrollment": "429"
+  },
+  "Stoddert Elementary School": {
+    "address": "4001 Calvert St. NW\nWashington, DC 20007",
+    "phone_number": "(202) 671-6030\n(202) 282-0145 \nfax",
+    "site": "http://stoddert.org",
+    "principal": "Karen Rivas",
+    "ward": "3",
+    "grades": "PK4-5th",
+    "enrollment": "494"
+  },
+  "Stuart-Hobson Middle School (Capitol Hill Cluster)": {
+    "address": "410 E St. NE\nWashington, DC 20002",
+    "phone_number": "(202) 671-6010\n(202) 698-4720 \nfax",
+    "site": "https://www.stuart-hobson.org",
+    "principal": "Eric Fraser",
+    "ward": "6",
+    "grades": "6th-8th",
+    "enrollment": "487",
+    "nicknames": ["Stuart-Hobson Middle School"]
+  },
+  "Takoma Elementary School": {
+    "address": "7010 Piney Branch Rd. NW\nWashington, DC 20012",
+    "phone_number": "(202) 671-6050\n(202) 576-7592 \nfax",
+    "site": "http://www.takomaec.us",
+    "principal": "Brandon Clayton",
+    "ward": "4",
+    "grades": "PK3-5th",
+    "enrollment": "532"
+  },
+  "Thaddeus Stevens Early Learning Center": {
+    "address": "1050 21st St. NW\nWashington, DC 20036",
+    "phone_number": "(202) 698-0677\n \nfax",
+    "site": "https://sites.google.com/dc.gov/stevenselc/home",
+    "principal": "Amelia Hunt",
+    "ward": "2",
+    "grades": "PK3, PK4",
+    "enrollment": "N/A",
+    "nicknames": ["Stevens Early Learning Center"]
+  },
+  "Thomas Elementary School": {
+    "address": "650 Anacostia Ave. NE\nWashington, DC 20019",
+    "phone_number": "(202) 724-4593\n(202) 724-5053 \nfax",
+    "site": "http://www.nevalthomas.org",
+    "principal": "Jaimee Trahan",
+    "ward": "7",
+    "grades": "PK3-5th",
+    "enrollment": "326"
+  },
+  "Thomson Elementary School": {
+    "address": "1200 L St. NW\nWashington, DC 20005",
+    "phone_number": "(202) 898-4660\n(202) 442-8706 \nfax",
+    "site": "http://thomsondcps.org",
+    "principal": "Carmen Shepherd",
+    "ward": "2",
+    "grades": "PK3-5th",
+    "enrollment": "320"
+  },
+  "Truesdell Elementary School": {
+    "address": "800 Ingraham St. NW\nWashington, DC 20011",
+    "phone_number": "(202) 576-6202\n(202) 576-6205 \nfax",
+    "site": "http://profiles.dcps.dc.gov/Truesdell+Education+Campus",
+    "principal": "Tracy Foster",
+    "ward": "4",
+    "grades": "PK3-5th",
+    "enrollment": "565"
+  },
+  "Tubman Elementary School": {
+    "address": "3101 13th St. NW\nWashington, DC 20010",
+    "phone_number": "(202) 673-7285\n(202) 673-2172 \nfax",
+    "site": "http://teamtubman.com",
+    "principal": "Amanda Delabar",
+    "ward": "1",
+    "grades": "PK3-5th",
+    "enrollment": "564"
+  },
+  "Turner Elementary School": {
+    "address": "3264 Stanton Rd. SE\nWashington, DC 20032",
+    "phone_number": "(202) 645-3470\n(202) 610-9515 \nfax",
+    "site": "https://www.turnerelementaryschooldc.org/",
+    "principal": "Jessica Morris",
+    "ward": "8",
+    "grades": "PK3-5th",
+    "enrollment": "506"
+  },
+  "Tyler Elementary School": {
+    "address": "1001 G St. SE\nWashington, DC 20003",
+    "phone_number": "(202) 939-4810\n(202) 698-3848 \nfax",
+    "site": "http://tylerelementary.net",
+    "principal": "Jasmine Brann",
+    "ward": "6",
+    "grades": "PK3-5th",
+    "enrollment": "528"
+  },
+  "Van Ness Elementary School": {
+    "address": "1150 5th St SE\nWashington, DC 20003",
+    "phone_number": "(202) 727-4314\n(202) 727-6781 \nfax",
+    "site": "http://vannesselementary.org/",
+    "principal": "Cynthia Robinson-Rivers",
+    "ward": "6",
+    "grades": "PK3-5th",
+    "enrollment": "325"
+  },
+  "Walker-Jones Education Campus": {
+    "address": "1125 New Jersey Ave. NW\nWashington, DC 20001",
+    "phone_number": "(202) 939-5934\n(202) 535-1307 \nfax",
+    "site": "http://walkerjoneseducampus.org",
+    "principal": "Clinton Turner",
+    "ward": "6",
+    "grades": "PK3-8th",
+    "enrollment": "414"
+  },
+  "Watkins Elementary School (Capitol Hill Cluster)": {
+    "address": "420 12th St. SE\nWashington, DC 20003",
+    "phone_number": "(202) 698-3355\n(202) 698-3340 \nfax",
+    "site": "http://capitolhillclusterschool.org",
+    "principal": "MScott Berkowitz",
+    "ward": "6",
+    "grades": "1st-5th",
+    "enrollment": "446",
+    "nicknames": ["Watkins Elementary School"]
+  },
+  "West Elementary School": {
+    "address": "1335 Farragut St. NW\nWashington, DC 20011",
+    "phone_number": "(202) 576-6226\n(202) 541-6087 \nfax",
+    "site": "http://westschool.org",
+    "principal": "Nikeysha Jackson",
+    "ward": "4",
+    "grades": "PK3-5th",
+    "enrollment": "342"
+  },
+  "Wheatley Education Campus": {
+    "address": "1299 Neal St. NE\nWashington, DC 20002",
+    "phone_number": "(202) 939-5970\n(202) 724-9088 \nfax",
+    "site": "http://www.wheatleydcps.org/",
+    "principal": "Shenora Plenty",
+    "ward": "5",
+    "grades": "PK3-8th",
+    "enrollment": "354"
+  },
+  "Whittier Elementary School": {
+    "address": "6201 5th St. NW\nWashington, DC 20011",
+    "phone_number": "(202) 576-6156\n(202) 576-6158 \nfax",
+    "site": "http://profiles.dcps.dc.gov/Whittier+Education+Campus",
+    "principal": "Tiffany Johnson",
+    "ward": "4",
+    "grades": "PK3-5th",
+    "enrollment": "366"
+  },
+  "Woodrow Wilson High School": {
+    "address": "3950 Chesapeake St. NW\nWashington, DC 20016",
+    "phone_number": "(202) 282-0120\n(202) 282-0077 \nfax",
+    "site": "http://wilsonhs.org",
+    "principal": "Gregory Bargeman (Interim)",
+    "ward": "3",
+    "grades": "9th-12th",
+    "enrollment": "1872",
+    "nicknames": ["Wilson High School"]
+  }
+}
