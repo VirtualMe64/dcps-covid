@@ -830,7 +830,10 @@
     "ward": "2",
     "grades": "PK3-8th",
     "enrollment": "540",
-    "nicknames": ["School Without Walls at Francis-Stevens"]
+    "nicknames": [
+      "School Without Walls at Francis-Stevens",
+      "School Without Walls @ Francis Stevens"
+    ]
   },
   "School Without Walls High School": {
     "address": "2130 G St. NW\nWashington, DC 20037",

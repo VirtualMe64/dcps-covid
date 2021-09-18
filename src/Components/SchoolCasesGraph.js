@@ -59,7 +59,7 @@ const SchoolCasesGraph = (props) => {
         },
       ],
     });
-  }, [schoolCases, sortType]);
+  }, [schoolCases, sortType, sorts]);
 
   const options = {
     responsive: true,
