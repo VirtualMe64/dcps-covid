@@ -2,8 +2,104 @@
   {
     "date": "September 17",
     "num_cases": 1,
+    "school": "Langdon Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/langdon-elementary-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Tubman Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/tubman-elementary-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Cleveland Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/cleveland-elementary-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Truesdell Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/truesdell-elementary-school-covid-19-notification-6/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Maury Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/maury-elementary-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Stuart-Hobson Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/stuart-hobson-middle-school-covid-19-notification-6/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Amidon-Bowen Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/amidon-bowen-elementary-school-covid-19-notification-8/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
     "school": "J.O. Wilson Elementary School",
     "url": "https://dcpsreopenstrong.com/articles/j-o-wilson-elementary-school-covid-19-notification-2/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Ballou High School",
+    "url": "https://dcpsreopenstrong.com/articles/ballou-high-school-covid-19-notification-6/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 2,
+    "school": "Hendley Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/hendley-elementary-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Banneker High School",
+    "url": "https://dcpsreopenstrong.com/articles/banneker-high-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Payne Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/payne-elementary-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 2,
+    "school": "Raymond Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/raymond-elementary-school-covid-19-notification-6/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Thomas Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/thomas-elementary-school-covid-19-notification-2/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 2,
+    "school": "Johnson Middle School ",
+    "url": "https://dcpsreopenstrong.com/articles/johnson-middle-school-covid-19-notification-8/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Eaton Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/eaton-elementary-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Turner Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/turner-elementary-school-covid-19-notification-9/"
   },
   {
     "date": "September 16",
@@ -52,6 +148,12 @@
     "num_cases": 1,
     "school": "HD Woodson High School",
     "url": "https://dcpsreopenstrong.com/articles/hd-woodson-high-school-covid-19-notification-2/"
+  },
+  {
+    "date": "September 15",
+    "num_cases": 1,
+    "school": "Aiton Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/aiton-elementary-school-covid-19-notification/"
   },
   {
     "date": "September 15",
@@ -115,6 +217,24 @@
   },
   {
     "date": "September 14",
+    "num_cases": 2,
+    "school": "Raymond Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/raymond-elementary-school-covid-19-notification-6/"
+  },
+  {
+    "date": "September 14",
+    "num_cases": 1,
+    "school": "Jefferson Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/jefferson-middle-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 14",
+    "num_cases": 1,
+    "school": "HD Cooke Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/hd-cooke-elementary-school-covid-19-notification/"
+  },
+  {
+    "date": "September 14",
     "num_cases": 1,
     "school": "Burrville Elementary School",
     "url": "https://dcpsreopenstrong.com/articles/burrville-elementary-school-covid-19-notification-2/"
@@ -154,6 +274,30 @@
     "num_cases": 1,
     "school": "Powell Elementary School",
     "url": "https://dcpsreopenstrong.com/articles/powell-elementary-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 13",
+    "num_cases": 1,
+    "school": "Hendley Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/hendley-elementary-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 13",
+    "num_cases": 1,
+    "school": "School Without Walls @ Francis Stevens",
+    "url": "https://dcpsreopenstrong.com/articles/school-without-walls-francis-stevens-covid-19-notification-3/"
+  },
+  {
+    "date": "September 13",
+    "num_cases": 1,
+    "school": "Military Road Early Learning Center",
+    "url": "https://dcpsreopenstrong.com/articles/military-road-early-learning-center-covid-19-notification/"
+  },
+  {
+    "date": "September 13",
+    "num_cases": 1,
+    "school": "Stuart-Hobson Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/stuart-hobson-middle-school-covid-19-notification-6/"
   },
   {
     "date": "September 13",
@@ -520,6 +664,12 @@
     "num_cases": 1,
     "school": "Stanton Elementary School",
     "url": "https://dcpsreopenstrong.com/articles/stanton-elementary-school-covid-19-notification-8/"
+  },
+  {
+    "date": "September 9",
+    "num_cases": 1,
+    "school": "HD Woodson High School",
+    "url": "https://dcpsreopenstrong.com/articles/hd-woodson-high-school-covid-19-notification-3/"
   },
   {
     "date": "September 9",
