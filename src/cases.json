@@ -1,5 +1,329 @@
 [
   {
+    "date": "September 24",
+    "num_cases": 2,
+    "school": "Shepherd Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/shepherd-elementary-school-covid-19-notification-8/"
+  },
+  {
+    "date": "September 23",
+    "num_cases": 1,
+    "school": "H.D. Cooke Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/h-d-cooke-elementary-school-covid-19-notification-8/"
+  },
+  {
+    "date": "September 23",
+    "num_cases": 1,
+    "school": "Hendley Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/hendley-elementary-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 23",
+    "num_cases": 1,
+    "school": "Leckie Education Campus",
+    "url": "https://dcpsreopenstrong.com/articles/leckie-education-campus-covid-19-notification-5/"
+  },
+  {
+    "date": "September 22",
+    "num_cases": 1,
+    "school": "Simon Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/simon-elementary-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 22",
+    "num_cases": 1,
+    "school": "Savoy Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/savoy-elementary-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 22",
+    "num_cases": 1,
+    "school": "Roosevelt High School",
+    "url": "https://dcpsreopenstrong.com/articles/roosevelt-high-school-covid-19-notification-7/"
+  },
+  {
+    "date": "September 22",
+    "num_cases": 1,
+    "school": "Ketcham Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/ketcham-elementary-school-covid-19-notification-10/"
+  },
+  {
+    "date": "September 22",
+    "num_cases": 1,
+    "school": "Barnard Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/barnard-elementary-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 21",
+    "num_cases": 1,
+    "school": "LaSalle-Backus Education Campus",
+    "url": "https://dcpsreopenstrong.com/articles/lasalle-backus-education-campus-covid-19-notification-5/"
+  },
+  {
+    "date": "September 21",
+    "num_cases": 1,
+    "school": "Jefferson Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/jefferson-middle-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 21",
+    "num_cases": 1,
+    "school": "Leckie Education Campus",
+    "url": "https://dcpsreopenstrong.com/articles/leckie-education-campus-covid-19-notification-4/"
+  },
+  {
+    "date": "September 21",
+    "num_cases": 1,
+    "school": "Raymond Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/raymond-elementary-school-covid-19-notification-8/"
+  },
+  {
+    "date": "September 21",
+    "num_cases": 1,
+    "school": "Truesdell Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/truesdell-elementary-school-covid-19-notification-7/"
+  },
+  {
+    "date": "September 21",
+    "num_cases": 1,
+    "school": "Bruce-Monroe Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/bruce-monroe-elementary-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 21",
+    "num_cases": 1,
+    "school": "Hart Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/hart-middle-school-covid-19-notification-6/"
+  },
+  {
+    "date": "September 21",
+    "num_cases": 1,
+    "school": "Payne Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/payne-elementary-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 20",
+    "num_cases": 1,
+    "school": "Langley Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/langley-elementary-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 20",
+    "num_cases": 1,
+    "school": "Houston Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/houston-elementary-school-covid-19-notification-12/"
+  },
+  {
+    "date": "September 20",
+    "num_cases": 1,
+    "school": "Marie Reed Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/marie-reed-elementary-school-covid-19-notification-8/"
+  },
+  {
+    "date": "September 20",
+    "num_cases": 1,
+    "school": "Houston Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/houston-elementary-school-covid-19-notification-11/"
+  },
+  {
+    "date": "September 20",
+    "num_cases": 1,
+    "school": "Truesdell Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/truesdell-elementary-school-covid-19-notification-7/"
+  },
+  {
+    "date": "September 20",
+    "num_cases": 1,
+    "school": "Eliot-Hine Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/eliot-hine-middle-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 20",
+    "num_cases": 1,
+    "school": "Houston Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/houston-elementary-school-covid-19-notification-10/"
+  },
+  {
+    "date": "September 20",
+    "num_cases": 1,
+    "school": "Seaton Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/seaton-elementary-school-covid-19-notification-9/"
+  },
+  {
+    "date": "September 18",
+    "num_cases": 1,
+    "school": "MacFarland Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/macfarland-middle-school-covid-19-notification-7/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "MacFarland Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/macfarland-middle-school-covid-19-notification-8/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Plummer Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/plummer-elementary-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Wilson High School",
+    "url": "https://dcpsreopenstrong.com/articles/wilson-high-school-covid-19-notification-7/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "J.O. Wilson Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/j-o-wilson-elementary-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Shepherd Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/shepherd-elementary-school-covid-19-notification-7/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Payne Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/payne-elementary-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Hart Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/hart-middle-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Houston Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/houston-elementary-school-covid-19-notification-10/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Miner Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/miner-elementary-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Hardy Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/hardy-middle-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "King Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/king-elementary-school-covid-19-notification-6/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Simon Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/simon-elementary-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Deal Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/deal-middle-school-covid-19-notification-6/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Janney Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/janney-elementary-school-covid-19-notification-7/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "River Terrace Education Campus",
+    "url": "https://dcpsreopenstrong.com/articles/river-terrace-education-campus-covid-19-notification-5/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Thomson Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/thomson-elementary-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "MacFarland Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/macfarland-middle-school-covid-19-notification-6/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Dunbar High School",
+    "url": "https://dcpsreopenstrong.com/articles/dunbar-high-school-covid-19-notification-8/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 2,
+    "school": "McKinley Technology High School",
+    "url": "https://dcpsreopenstrong.com/articles/mckinley-technology-high-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Eastern High School",
+    "url": "https://dcpsreopenstrong.com/articles/eastern-high-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Leckie Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/leckie-elementary-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Roosevelt High School",
+    "url": "https://dcpsreopenstrong.com/articles/roosevelt-high-school-covid-19-notification-6/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Kelly Miller Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/kelly-miller-middle-school-covid-19-notification-2/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Raymond Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/raymond-elementary-school-covid-19-notification-7/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Shepherd Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/shepherd-elementary-school-covid-19-notification-6/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "West Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/west-elementary-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "HD Woodson High School",
+    "url": "https://dcpsreopenstrong.com/articles/hd-woodson-high-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 17",
+    "num_cases": 1,
+    "school": "Marie Reed Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/marie-reed-elementary-school-covid-19-notification-6/"
+  },
+  {
     "date": "September 17",
     "num_cases": 1,
     "school": "Langdon Elementary School",
@@ -46,6 +370,132 @@
     "num_cases": 1,
     "school": "J.O. Wilson Elementary School",
     "url": "https://dcpsreopenstrong.com/articles/j-o-wilson-elementary-school-covid-19-notification-2/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Leckie Education Campus",
+    "url": "https://dcpsreopenstrong.com/articles/leckie-education-campus-covid-19-notification-6/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "MacFarland Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/macfarland-middle-school-covid-19-notification-8/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Plummer Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/plummer-elementary-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Aiton Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/aiton-elementary-school-covid-19-notification-2/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Duke Ellington High School",
+    "url": "https://dcpsreopenstrong.com/articles/duke-ellington-high-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Anacostia High School",
+    "url": "https://dcpsreopenstrong.com/articles/anacostia-high-school-covid-19-notification-6/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 2,
+    "school": "Ballou High School",
+    "url": "https://dcpsreopenstrong.com/articles/ballou-high-school-covid-19-notification-7/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Hart Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/hart-middle-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Miner Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/miner-elementary-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Luke C. Moore High School",
+    "url": "https://dcpsreopenstrong.com/articles/luke-c-moore-high-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Walker-Jones Education Campus",
+    "url": "https://dcpsreopenstrong.com/articles/walker-jones-education-campus-covid-19-notification-4/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Marie Reed Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/marie-reed-elementary-school-covid-19-notification-7/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Tyler Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/tyler-elementary-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 2,
+    "school": "Houston Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/houston-elementary-school-covid-19-notification-9/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Savoy Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/savoy-elementary-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Bunker Hill Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/bunker-hill-elementary-school-covid-19-notification/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Stoddert Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/stoddert-elementary-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Roosevelt High School",
+    "url": "https://dcpsreopenstrong.com/articles/roosevelt-high-school-covid-19-notification-6/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Kelly Miller Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/kelly-miller-middle-school-covid-19-notification-2/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Langdon Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/langdon-elementary-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 16",
+    "num_cases": 1,
+    "school": "Dorothy I. Height Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/dorothy-i-height-elementary-school-covid-19-notification-3/"
   },
   {
     "date": "September 16",
@@ -152,6 +602,66 @@
   {
     "date": "September 15",
     "num_cases": 1,
+    "school": "Ballou High School",
+    "url": "https://dcpsreopenstrong.com/articles/ballou-high-school-covid-19-notification-7/"
+  },
+  {
+    "date": "September 15",
+    "num_cases": 1,
+    "school": "Hart Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/hart-middle-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 15",
+    "num_cases": 1,
+    "school": "Phelps ACE High School",
+    "url": "https://dcpsreopenstrong.com/articles/phelps-ace-high-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 15",
+    "num_cases": 2,
+    "school": "Hart Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/hart-middle-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 15",
+    "num_cases": 2,
+    "school": "Garfield Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/garfield-elementary-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 15",
+    "num_cases": 1,
+    "school": "Tyler Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/tyler-elementary-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 15",
+    "num_cases": 1,
+    "school": "Garrison Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/garrison-elementary-school-covid-19-notification-10/"
+  },
+  {
+    "date": "September 15",
+    "num_cases": 1,
+    "school": "Randle Highlands Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/randle-highlands-elementary-school-covid-19-notification-6/"
+  },
+  {
+    "date": "September 15",
+    "num_cases": 1,
+    "school": "Seaton Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/seaton-elementary-school-covid-19-notification-8/"
+  },
+  {
+    "date": "September 15",
+    "num_cases": 1,
+    "school": "Ida B. Wells Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/ida-b-wells-middle-school-covid-19-notification-6/"
+  },
+  {
+    "date": "September 15",
+    "num_cases": 1,
     "school": "Aiton Elementary School",
     "url": "https://dcpsreopenstrong.com/articles/aiton-elementary-school-covid-19-notification/"
   },
@@ -218,6 +728,24 @@
   {
     "date": "September 14",
     "num_cases": 2,
+    "school": "Stuart-Hobson Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/stuart-hobson-middle-school-covid-19-notification-7/"
+  },
+  {
+    "date": "September 14",
+    "num_cases": 1,
+    "school": "Tyler Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/tyler-elementary-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 14",
+    "num_cases": 1,
+    "school": "Hart Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/hart-middle-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 14",
+    "num_cases": 2,
     "school": "Raymond Elementary School",
     "url": "https://dcpsreopenstrong.com/articles/raymond-elementary-school-covid-19-notification-6/"
   },
@@ -274,6 +802,60 @@
     "num_cases": 1,
     "school": "Powell Elementary School",
     "url": "https://dcpsreopenstrong.com/articles/powell-elementary-school-covid-19-notification-5/"
+  },
+  {
+    "date": "September 13",
+    "num_cases": 1,
+    "school": "Bard High School",
+    "url": "https://dcpsreopenstrong.com/articles/bard-high-school-covid-19-notification-2/"
+  },
+  {
+    "date": "September 13",
+    "num_cases": 1,
+    "school": "Sousa Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/sousa-middle-school-covid-19-notification-3/"
+  },
+  {
+    "date": "September 13",
+    "num_cases": 1,
+    "school": "Capitol Hill Montessori School",
+    "url": "https://dcpsreopenstrong.com/articles/capitol-hill-montessori-school-covid-19-notification-6/"
+  },
+  {
+    "date": "September 13",
+    "num_cases": 2,
+    "school": "Lafayette Elementary School ",
+    "url": "https://dcpsreopenstrong.com/articles/lafayette-elementary-school-covid-19-notification-12/"
+  },
+  {
+    "date": "September 13",
+    "num_cases": 1,
+    "school": "McKinley Tech Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/mckinley-tech-middle-school-covid-19-notification-2/"
+  },
+  {
+    "date": "September 13",
+    "num_cases": 1,
+    "school": "HD Woodson High School",
+    "url": "https://dcpsreopenstrong.com/articles/hd-woodson-high-school-covid-19-notification-4/"
+  },
+  {
+    "date": "September 13",
+    "num_cases": 1,
+    "school": "Oyster-Adams Bilingual School",
+    "url": "https://dcpsreopenstrong.com/articles/oyster-adams-bilingual-school-covid-19-notification-11/"
+  },
+  {
+    "date": "September 13",
+    "num_cases": 1,
+    "school": "Ida B. Wells Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/ida-b-wells-middle-school-covid-19-notification-6/"
+  },
+  {
+    "date": "September 13",
+    "num_cases": 1,
+    "school": "Simon Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/simon-elementary-school-covid-19-notification-3/"
   },
   {
     "date": "September 13",
@@ -400,6 +982,24 @@
     "num_cases": 1,
     "school": "Payne Elementary School",
     "url": "https://dcpsreopenstrong.com/articles/payne-elementary-school-covid-19-notification/"
+  },
+  {
+    "date": "September 10",
+    "num_cases": 1,
+    "school": "Johnson Middle School ",
+    "url": "https://dcpsreopenstrong.com/articles/johnson-middle-school-covid-19-notification-9/"
+  },
+  {
+    "date": "September 10",
+    "num_cases": 1,
+    "school": "Nalle Elementary School",
+    "url": "https://dcpsreopenstrong.com/articles/nalle-elementary-school-covid-19-notification-7/"
+  },
+  {
+    "date": "September 10",
+    "num_cases": 1,
+    "school": "Oyster-Adams Bilingual School",
+    "url": "https://dcpsreopenstrong.com/articles/oyster-adams-bilingual-school-covid-19-notification-11/"
   },
   {
     "date": "September 10",
@@ -664,6 +1264,12 @@
     "num_cases": 1,
     "school": "Stanton Elementary School",
     "url": "https://dcpsreopenstrong.com/articles/stanton-elementary-school-covid-19-notification-8/"
+  },
+  {
+    "date": "September 9",
+    "num_cases": 1,
+    "school": "Hart Middle School",
+    "url": "https://dcpsreopenstrong.com/articles/hart-middle-school-covid-19-notification-5/"
   },
   {
     "date": "September 9",

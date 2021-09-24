@@ -8,11 +8,6 @@ const SchoolCasesGraph = (props) => {
   const [sortType, setSortType] = React.useState("cases");
   const [max, setMax] = React.useState(0);
 
-  const sorts = {
-    cases: (a, b) => schoolCases[b].num_cases - schoolCases[a].num_cases,
-    alphabetical: (a, b) => a.localeCompare(b),
-  };
-
   React.useEffect(() => {
     // parse school cases, totaling cases per school
     let schoolCases = {};
@@ -46,6 +41,11 @@ const SchoolCasesGraph = (props) => {
   }, [props.dateFilter, props.caseData]);
 
   React.useEffect(() => {
+    const sorts = {
+      cases: (a, b) => schoolCases[b].num_cases - schoolCases[a].num_cases,
+      alphabetical: (a, b) => a.localeCompare(b),
+    };
+
     // take data and format it for chartjs
     let labels = Object.keys(schoolCases).sort(sorts[sortType]);
     let data = labels.map((label) => schoolCases[label].num_cases);
@@ -59,7 +59,7 @@ const SchoolCasesGraph = (props) => {
         },
       ],
     });
-  }, [schoolCases, sortType, sorts]);
+  }, [schoolCases, sortType]);
 
   const options = {
     responsive: true,
